@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "uPFrVvooKmSjO1Wv+3+SwC5i4d+QmIKfgvZ82/u6kxHkGPenhX18A1Ofs61bkMLNsOm9mYRH0SKWj4CrLRG3EQ==",
+  "success": true,
+  "projectFilePath": "D:\\github\\SOLID-study\\Solid.Study\\Solid.Study\\Solid.Study.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\meire\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\meire\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\meire\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\meire\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\meire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\meire\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
